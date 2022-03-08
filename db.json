@@ -2,15 +2,21 @@
   "posts": [
     {
       "id": 1,
-      "title": "Post 1"
+      "username": "cenkberry",
+      "password": "developer33",
+      "location": "Turkey"
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "username": "ranaberry",
+      "password": "developer27",
+      "location": "England"
     },
     {
       "id": 3,
-      "title": "Post 3"
+      "username": "aselhanedar",
+      "password": "baby2019",
+      "location": "California"
     }
   ],
   "comments": [
